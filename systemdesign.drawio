@@ -1,8 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1px"
-     height="1px" viewBox="-0.5 -0.5 1 1"
-     content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-04-15T16:58:14.004Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36&quot; etag=&quot;9hHl-fft3fX4wfAVMn7f&quot; version=&quot;14.6.0&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;23iRSUPoRavnBvh4doch&quot; name=&quot;Page-1&quot;&gt;dZHBEoIgEIafhjtCZZ3N6tLJQ2dGNmEGXQdptJ4+HTBjrJk97H77Lz8shGf1cLaiVVeUYAijciD8SBhLNoyRKah8epLSrQeV1TKIFlDoFwRIA31oCV0kdIjG6TaGJTYNlC5iwlrsY9kdTezaigpWoCiFWdOblk55umfpwi+gKzU7J7uD79RiFoeXdEpI7L8QzwnPLKLzWT1kYKblzXvxc6c/3c/FLDTux8CYLGePRfRDPH8D&lt;/diagram&gt;&lt;/mxfile&gt;">
-    <defs/>
-    <g/>
-</svg>
+<mxfile host="app.diagrams.net" modified="2024-04-18T16:07:17.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" etag="aCo3RyyXPjGM0GE4FzA8" version="24.2.5" type="github">
+  <diagram id="23iRSUPoRavnBvh4doch" name="Page-1">
+    <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7JuH_4QJl-1phAhiYr7i-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="7JuH_4QJl-1phAhiYr7i-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7JuH_4QJl-1phAhiYr7i-2" target="7JuH_4QJl-1phAhiYr7i-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7JuH_4QJl-1phAhiYr7i-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7JuH_4QJl-1phAhiYr7i-2" target="7JuH_4QJl-1phAhiYr7i-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7JuH_4QJl-1phAhiYr7i-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7JuH_4QJl-1phAhiYr7i-3" value="" style="shape=mxgraph.cisco.computers_and_peripherals.web_browser;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="50" width="62" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="7JuH_4QJl-1phAhiYr7i-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
+          <mxGeometry x="340" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7JuH_4QJl-1phAhiYr7i-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/CDN_Profiles.svg;" vertex="1" parent="1">
+          <mxGeometry x="590" y="65" width="68" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7JuH_4QJl-1phAhiYr7i-8" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="75" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
